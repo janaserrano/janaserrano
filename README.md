@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janaserrano
+- 👋 Hi, I’m @janaserrano a PhD Student at McGill University, Canada
 - 👀 I’m interested in Ecology & Conservation
 - 🌱 I’m currently learning structural equation models
 - 💞️ I’m looking to collaborate on extinction risk and threats to vertebrates
