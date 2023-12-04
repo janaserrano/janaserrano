@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ecology & Conservation
 - 🌱 I’m currently learning structural equation models
 - 💞️ I’m looking to collaborate on extinction risk and threats to vertebrates
-- 📫 How to reach me @jana_serrano on twitter or janaina.serrano@mail.mcgill.ca
+- 📫 How to reach me (https://twitter.com/jana_serrano) or janaina.serrano@mail.mcgill.ca
 
 <!---
 janaserrano/janaserrano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
