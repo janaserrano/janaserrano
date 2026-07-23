@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ecology & Conservation
 - 🌱 I’m currently learning about species uses & ecosystem services
 - 💞️ I’m looking to collaborate on ecosystem services, extinction risk and threats to vertebrates and plants
-- 📫 How to reach me: janaina.serrano@mail.mcgill.ca (or https://twitter.com/jana_serrano) 
+- 📫 How to reach me: janaina.serrano@mail.mcgill.ca ; janaserrano@gmail.com
 
 <!---
 janaserrano/janaserrano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
