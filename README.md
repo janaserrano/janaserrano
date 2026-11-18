@@ -1,6 +1,6 @@
 Hi, I'm Janaína Serrano 👋✨
 
-I'm an ecologist and conservation scientist with a PhD from McGill University (Canada). I currently work as a Research Assiciate at McGill, coordinate the identification of **Key Biodiversity Areas (KBAs) for amphibians in Brazil, through a partnership between SAVE Brasil and Brazil's Ministry of Environment (MMA).
+I'm an ecologist and conservation scientist with a PhD from McGill University (Canada). I currently work as a Research Assiciate at McGill, coordinate the identification of Key Biodiversity Areas (KBAs) for amphibians in Brazil, through a partnership between SAVE Brasil and Brazil's Ministry of Environment (MMA).
 
 My work looks at how people use species, the ecosystem services they provide, and the extinction risks and threats facing vertebrates and plants.
 
