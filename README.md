@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @janaserrano a PhD Student at McGill University, Canada
-- 👀 I’m interested in Ecology & Conservation
-- 🌱 I’m currently learning about species uses & ecosystem services
-- 💞️ I’m looking to collaborate on ecosystem services, extinction risk and threats to vertebrates and plants
-- 📫 How to reach me: janaina.serrano@mail.mcgill.ca ; janaserrano@gmail.com
+Hi, I'm Janaína Serrano 👋✨
+
+I'm an ecologist and conservation scientist with a PhD from McGill University (Canada). I currently work as a Research Assiciate at McGill, coordinate the identification of **Key Biodiversity Areas (KBAs) for amphibians in Brazil, through a partnership between SAVE Brasil and Brazil's Ministry of Environment (MMA).
+
+My work looks at how people use species, the ecosystem services they provide, and the extinction risks and threats facing vertebrates and plants.
+
+- 🛠️ Working with: R, spatial data (sf, QGIS), IUCN Red List and KBA criteria
+- 🤝 Open to collaborate on: conservation, extinction risk, and threats to biodiversity
+- 📫 Reach me: janaserrano@gmail.com
 
 <!---
 janaserrano/janaserrano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
